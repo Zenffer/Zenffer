@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there im Zeniffer 👋
+i like coding hehe
 <!--
 **Zenffer/Zenffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
